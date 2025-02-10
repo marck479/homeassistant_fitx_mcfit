@@ -1,0 +1,11 @@
+{
+  "domain": "fitx_mcfit",
+  "name": "FitX/McFit Auslastung",
+  "version": "1.0.0",
+  "iot_class": "cloud_polling",
+  "config_flow": true,
+  "documentation": "https://github.com/dorian-K/homeassistant-fitx-utilization",
+  "requirements": ["aiohttp>=3.8.0"],
+  "codeowners": ["@IhrName"],
+  "integration_type": "hub"
+}
