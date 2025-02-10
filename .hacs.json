@@ -1,0 +1,6 @@
+{
+  "name": "FitX/McFit Auslastung",
+  "content_in_root": false,
+  "domains": ["fitx_mcfit"],
+  "country": ["DE"]
+}
